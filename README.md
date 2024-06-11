@@ -57,7 +57,6 @@ Users are suggested to download the source code of CBTDatabase from GitHub (http
 Then start an R session using RStudio and run these lines:  
 ```
 library(shiny)  
-library(shiny)  
 runApp("E:/CBTDatabase/", launch.browser = TRUE)
 ```
 
