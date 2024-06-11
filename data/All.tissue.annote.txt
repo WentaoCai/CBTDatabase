@@ -1,0 +1,53 @@
+Tissue	Category	Color
+Heart fat	Adipose	#FED439FF
+Kidney fat	Adipose	#FED439FF
+Subcutaneous fat	Adipose	#FED439FF
+Blood vessel	Blood vessel	#709AE1FF
+Cerebrum	Brain	#8A9197FF
+Cerebellum	Brain	#8A9197FF
+Medulla oblongata	Brain	#8A9197FF
+Spinal cord	Brain	#8A9197FF
+Pineal body	Brain	#8A9197FF
+Hypothalamus	Brain	#8A9197FF
+Parotid gland	Digestive_system	#D2AF81FF
+Submandibular gland	Digestive_system	#D2AF81FF
+Sublingual gland	Digestive_system	#D2AF81FF
+Tongue	Digestive_system	#D2AF81FF
+Esophagus	Digestive_system	#D2AF81FF
+Rumen	Digestive_system	#D2AF81FF
+Reticulum	Digestive_system	#D2AF81FF
+Omasum	Digestive_system	#D2AF81FF
+Abomasum	Digestive_system	#D2AF81FF
+Duodenum	Digestive_system	#D2AF81FF
+Jejunum	Digestive_system	#D2AF81FF
+Ileum	Digestive_system	#D2AF81FF
+Cecum	Digestive_system	#D2AF81FF
+Colon	Digestive_system	#D2AF81FF
+Rectum	Digestive_system	#D2AF81FF
+Thyroid	Endocrine	#FD7446FF
+Hypophysis	Endocrine	#FD7446FF
+Adrenal gland	Endocrine	#FD7446FF
+Lymph gland	Immune	#D5E4A2FF
+Spleen	Immune	#D5E4A2FF
+Thymus	Immune	#D5E4A2FF
+Renal cortical	Kidney&Bladder	#197EC0FF
+Renal medulla	Kidney&Bladder	#197EC0FF
+Bladder	Kidney&Bladder	#197EC0FF
+Liver	Liver	#CD99F6
+Heart muscle	Muscle	#46732EFF
+Longissimus muscle	Muscle	#46732EFF
+Testis	Reproductive	#71D0F5FF
+Epididymis	Reproductive	#71D0F5FF
+Seminal vesicle	Reproductive	#71D0F5FF
+Antiprostate	Reproductive	#71D0F5FF
+Prostate	Reproductive	#71D0F5FF
+Penis	Reproductive	#71D0F5FF
+Nasal mucosa	Respiratory	#FD8CC1FF
+Trachea	Respiratory	#FD8CC1FF
+Lung	Respiratory	#FD8CC1FF
+Cartilago articularis	Skeletal_system	#1A9993FF
+Rib cartilage	Skeletal_system	#1A9993FF
+Fibrous cartilage	Skeletal_system	#1A9993FF
+Marrow	Skeletal_system	#1A9993FF
+Xiphoid	Skeletal_system	#1A9993FF
+Skin	Skin	#C80813FF
