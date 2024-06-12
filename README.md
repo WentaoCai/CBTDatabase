@@ -11,7 +11,7 @@ The current release of CBT Database contains 25,530 known gene, 28,533 novel lnc
 
 + Data visualisation is mainly done with [`{ggplot2}`](https://github.com/tidyverse/ggplot2)
 
-+ CBT databsase is deployed at <a href="http://cattlegenomics.online" target="_blank">http://cattlegenomics.online/</a> (The website is under recordation and will be opened soon)for online use.  
++ CBT databsase is deployed at <a href="http://47.93.213.166:3838/cattle_bodymap/" target="_blank">http://47.93.213.166:3838/cattle_bodymap/</a> or <a href="http://cattlegenomics.online" target="_blank">http://cattlegenomics.online/</a> (The website is under recordation and will be opened soon)for online use.  
 
 
 *****
